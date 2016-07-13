@@ -1,0 +1,11 @@
+start = 0
+end = 5
+step = 1
+
+i = start
+customRange = []
+while i < end:
+	customRange.append(i)
+	i += step
+
+print range
